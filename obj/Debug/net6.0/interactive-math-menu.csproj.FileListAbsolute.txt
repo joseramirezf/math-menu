@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/bin/Debug/net6.0/interactive-math-menu
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/bin/Debug/net6.0/interactive-math-menu.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/bin/Debug/net6.0/interactive-math-menu.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/bin/Debug/net6.0/interactive-math-menu.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/bin/Debug/net6.0/interactive-math-menu.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/obj/Debug/net6.0/interactive-math-menu.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/obj/Debug/net6.0/interactive-math-menu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/obj/Debug/net6.0/interactive-math-menu.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/obj/Debug/net6.0/interactive-math-menu.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/obj/Debug/net6.0/interactive-math-menu.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/obj/Debug/net6.0/interactive-math-menu.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/obj/Debug/net6.0/refint/interactive-math-menu.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/obj/Debug/net6.0/interactive-math-menu.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/obj/Debug/net6.0/interactive-math-menu.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/14 - interactive-math-menu/interactive-math-menu/obj/Debug/net6.0/ref/interactive-math-menu.dll
